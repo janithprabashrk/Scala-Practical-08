@@ -1,0 +1,585 @@
+SLF4J(W): Class path contains multiple SLF4J providers.
+SLF4J(W): Found provider [scribe.slf4j.ScribeServiceProvider@5bd90244]
+SLF4J(W): Found provider [ch.qos.logback.classic.spi.LogbackServiceProvider@5aeffe69]
+SLF4J(W): See https://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J(I): Actual provider is of type [scribe.slf4j.ScribeServiceProvider@5bd90244]
+2024.08.12 20:26:57 WARN  Flyway upgrade recommended: H2 2.3.230 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+2024.08.12 20:26:57 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-08\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.12 20:26:59 WARN  no build target for: C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-08\Q1.scala
+2024.08.12 20:26:59 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-08\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.12 20:26:59 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-08\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.12 20:26:59 INFO  Running List(C:\Users\USER\AppData\Local\Coursier\data\bin\scala-cli.BAT, setup-ide, C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-08)
+2024.08.12 20:27:00 INFO  Attempting to connect to the build server...
+2024.08.12 20:27:00 INFO  Running BSP server List(C:\Users\USER\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe, bsp, --json-options, C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-08\.scala-build\ide-options-v2.json, --json-launcher-options, C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-08\.scala-build\ide-launcher-options.json, --envs-file, C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-08\.scala-build\ide-envs.json, C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-08)
+2024.08.12 20:26:59 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-08\.metals\bsp.trace.json or C:\Users\USER\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.08.12 20:27:03 INFO  BSP server: Starting compilation server
+2024.08.12 20:27:04 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-08\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.12 20:27:10 INFO  time: Connected to build server in 10s
+2024.08.12 20:27:10 INFO  Connected to Build server: scala-cli v1.3.2
+2024.08.12 20:27:11 INFO  compiling scala-practical-08_f4dd477a3a (1 scala source)
+2024.08.12 20:27:15 INFO  time: Imported build in 4.38s
+2024.08.12 20:27:15 INFO  running doctor check
+2024.08.12 20:27:15 INFO  java targets: Scala-Practical-08_f4dd477a3a, Scala-Practical-08_f4dd477a3a-test
+2024.08.12 20:27:16 WARN  Flyway upgrade recommended: H2 2.3.230 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+2024.08.12 20:27:18 INFO  time: indexed workspace in 3.54s
+2024.08.12 20:34:13 WARN  Flyway upgrade recommended: H2 2.3.230 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+2024.08.12 20:34:13 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Tutorial-07\Q3.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.12 20:34:14 INFO  Running List(C:\Users\USER\AppData\Local\Coursier\data\bin\scala-cli.BAT, bsp, --workspace, C:\Users\USER\AppData\Local\Temp\metals-scala-cli9176254660257199282, --semantic-db-source-root, C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Tutorial-07, C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Tutorial-07\Q3.scala)
+2024.08.12 20:34:14 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Tutorial-07\.metals\bsp.trace.json or C:\Users\USER\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.08.12 20:34:16 INFO  time: code lens generation in 2.19s
+2024.08.12 20:34:16 INFO  Connected to Scala CLI server v1.3.2
+2024.08.12 20:34:17 INFO  compiling metals-scala-cli9176254660257199282_92da1e2d9c-b657e45967 (1 scala source)
+2024.08.12 20:34:18 WARN  Flyway upgrade recommended: H2 2.3.230 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+2024.08.12 20:34:19 INFO  Shut down connection with build server.
+2024.08.12 20:34:19 INFO  time: indexed workspace in 2.69s
+2024.08.12 20:34:19 INFO  Scala CLI started for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Tutorial-07\Q3.scala
+2024.08.12 20:34:22 INFO  Running List(C:\Users\USER\AppData\Local\Coursier\data\bin\scala-cli.BAT, bsp, --workspace, C:\Users\USER\AppData\Local\Temp\metals-scala-cli9176254660257199282, --semantic-db-source-root, C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Tutorial-07, C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Tutorial-07\Q2.scala)
+2024.08.12 20:34:22 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Tutorial-07\Q2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.12 20:34:22 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Tutorial-07\.metals\bsp.trace.json or C:\Users\USER\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.08.12 20:34:25 INFO  Connected to Scala CLI server v1.3.2
+2024.08.12 20:34:25 INFO  compiling metals-scala-cli9176254660257199282_92da1e2d9c-95b6c95755 (1 scala source)
+2024.08.12 20:34:25 INFO  time: compiled metals-scala-cli9176254660257199282_92da1e2d9c-95b6c95755 in 0.6s
+2024.08.12 20:34:26 INFO  time: indexed workspace in 0.95s
+2024.08.12 20:34:26 INFO  Scala CLI started for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Tutorial-07\Q2.scala
+2024.08.12 20:34:30 INFO  Shut down connection with build server.
+2024.08.12 20:37:19 INFO  Scala main classes not supported by server
+java.util.concurrent.TimeoutException: Future timed out after [3 minutes]
+	at scala.concurrent.impl.Promise$DefaultPromise.tryAwait0(Promise.scala:248)
+	at scala.concurrent.impl.Promise$DefaultPromise.result(Promise.scala:261)
+	at scala.concurrent.Await$.$anonfun$result$1(package.scala:201)
+	at scala.concurrent.BlockContext$DefaultBlockContext$.blockOn(BlockContext.scala:62)
+	at scala.concurrent.Await$.result(package.scala:124)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionScalaFuture.$anonfun$withTimeout$1(MetalsEnrichments.scala:287)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:687)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:833)
+
+2024.08.12 20:37:19 INFO  Scala test classes not supported by server
+java.util.concurrent.TimeoutException: Future timed out after [3 minutes]
+	at scala.concurrent.impl.Promise$DefaultPromise.tryAwait0(Promise.scala:248)
+	at scala.concurrent.impl.Promise$DefaultPromise.result(Promise.scala:261)
+	at scala.concurrent.Await$.$anonfun$result$1(package.scala:201)
+	at scala.concurrent.BlockContext$DefaultBlockContext$.blockOn(BlockContext.scala:62)
+	at scala.concurrent.Await$.result(package.scala:124)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionScalaFuture.$anonfun$withTimeout$1(MetalsEnrichments.scala:287)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:687)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:833)
+
+2024.08.12 20:38:08 INFO  Running List(C:\Users\USER\AppData\Local\Coursier\data\bin\scala-cli.BAT, bsp, --workspace, C:\Users\USER\AppData\Local\Temp\metals-scala-cli9176254660257199282, --semantic-db-source-root, C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Tutorial-07, C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Tutorial-07\Q1.scala)
+2024.08.12 20:38:08 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Tutorial-07\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.12 20:38:08 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Tutorial-07\.metals\bsp.trace.json or C:\Users\USER\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.08.12 20:38:10 INFO  Connected to Scala CLI server v1.3.2
+2024.08.12 20:38:10 INFO  compiling metals-scala-cli9176254660257199282_92da1e2d9c-2bb8cf0d35 (1 scala source)
+2024.08.12 20:38:11 INFO  Shut down connection with build server.
+2024.08.12 20:38:11 INFO  time: indexed workspace in 1.2s
+2024.08.12 20:38:11 INFO  Scala CLI started for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Tutorial-07\Q1.scala
+2024.08.12 20:38:14 INFO  Running List(C:\Users\USER\AppData\Local\Coursier\data\bin\scala-cli.BAT, bsp, --workspace, C:\Users\USER\AppData\Local\Temp\metals-scala-cli9176254660257199282, --semantic-db-source-root, C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Tutorial-07, C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Tutorial-07\Q3.scala)
+2024.08.12 20:38:14 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Tutorial-07\.metals\bsp.trace.json or C:\Users\USER\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.08.12 20:38:17 INFO  Connected to Scala CLI server v1.3.2
+2024.08.12 20:38:17 INFO  compiling metals-scala-cli9176254660257199282_92da1e2d9c-b657e45967 (1 scala source)
+2024.08.12 20:38:17 INFO  time: compiled metals-scala-cli9176254660257199282_92da1e2d9c-b657e45967 in 0.41s
+2024.08.12 20:38:17 INFO  time: indexed workspace in 0.9s
+2024.08.12 20:38:18 INFO  Scala CLI started for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Tutorial-07\Q3.scala
+2024.08.12 20:38:21 INFO  Shut down connection with build server.
+2024.08.12 20:38:21 INFO  Scala CLI: Aug 12, 2024 8:38:21 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleNotification
+2024.08.12 20:40:19 INFO  Scala main classes not supported by server
+java.util.concurrent.TimeoutException: Future timed out after [3 minutes]
+	at scala.concurrent.impl.Promise$DefaultPromise.tryAwait0(Promise.scala:248)
+	at scala.concurrent.impl.Promise$DefaultPromise.result(Promise.scala:261)
+	at scala.concurrent.Await$.$anonfun$result$1(package.scala:201)
+	at scala.concurrent.BlockContext$DefaultBlockContext$.blockOn(BlockContext.scala:62)
+	at scala.concurrent.Await$.result(package.scala:124)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionScalaFuture.$anonfun$withTimeout$1(MetalsEnrichments.scala:287)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:687)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:833)
+
+2024.08.12 20:40:19 INFO  Scala test classes not supported by server
+java.util.concurrent.TimeoutException: Future timed out after [3 minutes]
+	at scala.concurrent.impl.Promise$DefaultPromise.tryAwait0(Promise.scala:248)
+	at scala.concurrent.impl.Promise$DefaultPromise.result(Promise.scala:261)
+	at scala.concurrent.Await$.$anonfun$result$1(package.scala:201)
+	at scala.concurrent.BlockContext$DefaultBlockContext$.blockOn(BlockContext.scala:62)
+	at scala.concurrent.Await$.result(package.scala:124)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionScalaFuture.$anonfun$withTimeout$1(MetalsEnrichments.scala:287)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:687)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:833)
+
+2024.08.12 20:44:14 INFO  compiling scala-practical-08_f4dd477a3a (1 scala source)
+2024.08.12 20:44:14 INFO  time: compiled Scala-Practical-08_f4dd477a3a in 0.4s
+2024.08.12 20:44:26 INFO  Cancelling compilation on scala-cli server
+java.util.concurrent.TimeoutException: Future timed out after [10 minutes]
+	at scala.concurrent.impl.Promise$DefaultPromise.tryAwait0(Promise.scala:248)
+	at scala.concurrent.impl.Promise$DefaultPromise.result(Promise.scala:261)
+	at scala.concurrent.Await$.$anonfun$result$1(package.scala:201)
+	at scala.concurrent.BlockContext$DefaultBlockContext$.blockOn(BlockContext.scala:62)
+	at scala.concurrent.Await$.result(package.scala:124)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionScalaFuture.$anonfun$withTimeout$1(MetalsEnrichments.scala:287)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:687)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:833)
+
+2024.08.12 20:46:19 INFO  Scala test classes not supported by server
+java.util.concurrent.TimeoutException: Future timed out after [540000 milliseconds]
+	at scala.concurrent.impl.Promise$DefaultPromise.tryAwait0(Promise.scala:248)
+	at scala.concurrent.impl.Promise$DefaultPromise.result(Promise.scala:261)
+	at scala.concurrent.Await$.$anonfun$result$1(package.scala:201)
+	at scala.concurrent.BlockContext$DefaultBlockContext$.blockOn(BlockContext.scala:62)
+	at scala.concurrent.Await$.result(package.scala:124)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionScalaFuture.$anonfun$withTimeout$1(MetalsEnrichments.scala:287)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:687)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:833)
+
+2024.08.12 20:46:19 INFO  Scala main classes not supported by server
+java.util.concurrent.TimeoutException: Future timed out after [540000 milliseconds]
+	at scala.concurrent.impl.Promise$DefaultPromise.tryAwait0(Promise.scala:248)
+	at scala.concurrent.impl.Promise$DefaultPromise.result(Promise.scala:261)
+	at scala.concurrent.Await$.$anonfun$result$1(package.scala:201)
+	at scala.concurrent.BlockContext$DefaultBlockContext$.blockOn(BlockContext.scala:62)
+	at scala.concurrent.Await$.result(package.scala:124)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionScalaFuture.$anonfun$withTimeout$1(MetalsEnrichments.scala:287)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:687)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:833)
+
+2024.08.12 20:49:19 INFO  Scala main classes not supported by server
+java.util.concurrent.TimeoutException: Future timed out after [3 minutes]
+	at scala.concurrent.impl.Promise$DefaultPromise.tryAwait0(Promise.scala:248)
+	at scala.concurrent.impl.Promise$DefaultPromise.result(Promise.scala:261)
+	at scala.concurrent.Await$.$anonfun$result$1(package.scala:201)
+	at scala.concurrent.BlockContext$DefaultBlockContext$.blockOn(BlockContext.scala:62)
+	at scala.concurrent.Await$.result(package.scala:124)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionScalaFuture.$anonfun$withTimeout$1(MetalsEnrichments.scala:287)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:687)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:833)
+
+2024.08.12 20:49:19 INFO  Scala main classes not supported by server
+java.util.concurrent.TimeoutException: Future timed out after [3 minutes]
+	at scala.concurrent.impl.Promise$DefaultPromise.tryAwait0(Promise.scala:248)
+	at scala.concurrent.impl.Promise$DefaultPromise.result(Promise.scala:261)
+	at scala.concurrent.Await$.$anonfun$result$1(package.scala:201)
+	at scala.concurrent.BlockContext$DefaultBlockContext$.blockOn(BlockContext.scala:62)
+	at scala.concurrent.Await$.result(package.scala:124)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionScalaFuture.$anonfun$withTimeout$1(MetalsEnrichments.scala:287)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:687)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:833)
+
+2024.08.12 20:49:19 INFO  Scala test classes not supported by server
+java.util.concurrent.TimeoutException: Future timed out after [3 minutes]
+	at scala.concurrent.impl.Promise$DefaultPromise.tryAwait0(Promise.scala:248)
+	at scala.concurrent.impl.Promise$DefaultPromise.result(Promise.scala:261)
+	at scala.concurrent.Await$.$anonfun$result$1(package.scala:201)
+	at scala.concurrent.BlockContext$DefaultBlockContext$.blockOn(BlockContext.scala:62)
+	at scala.concurrent.Await$.result(package.scala:124)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionScalaFuture.$anonfun$withTimeout$1(MetalsEnrichments.scala:287)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:687)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:833)
+
+2024.08.12 20:49:19 INFO  Scala test classes not supported by server
+java.util.concurrent.TimeoutException: Future timed out after [3 minutes]
+	at scala.concurrent.impl.Promise$DefaultPromise.tryAwait0(Promise.scala:248)
+	at scala.concurrent.impl.Promise$DefaultPromise.result(Promise.scala:261)
+	at scala.concurrent.Await$.$anonfun$result$1(package.scala:201)
+	at scala.concurrent.BlockContext$DefaultBlockContext$.blockOn(BlockContext.scala:62)
+	at scala.concurrent.Await$.result(package.scala:124)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionScalaFuture.$anonfun$withTimeout$1(MetalsEnrichments.scala:287)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:687)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:833)
+
+2024.08.12 20:54:46 INFO  compiling scala-practical-08_f4dd477a3a (1 scala source)
+2024.08.12 20:54:46 INFO  time: compiled Scala-Practical-08_f4dd477a3a in 0.83s
+2024.08.12 20:55:03 INFO  compiling scala-practical-08_f4dd477a3a (1 scala source)
+2024.08.12 20:55:03 INFO  time: compiled Scala-Practical-08_f4dd477a3a in 0.63s
+2024.08.12 20:55:19 INFO  Scala main classes not supported by server
+java.util.concurrent.TimeoutException: Future timed out after [540000 milliseconds]
+	at scala.concurrent.impl.Promise$DefaultPromise.tryAwait0(Promise.scala:248)
+	at scala.concurrent.impl.Promise$DefaultPromise.result(Promise.scala:261)
+	at scala.concurrent.Await$.$anonfun$result$1(package.scala:201)
+	at scala.concurrent.BlockContext$DefaultBlockContext$.blockOn(BlockContext.scala:62)
+	at scala.concurrent.Await$.result(package.scala:124)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionScalaFuture.$anonfun$withTimeout$1(MetalsEnrichments.scala:287)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:687)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:833)
+
+2024.08.12 20:55:19 INFO  Scala test classes not supported by server
+java.util.concurrent.TimeoutException: Future timed out after [540000 milliseconds]
+	at scala.concurrent.impl.Promise$DefaultPromise.tryAwait0(Promise.scala:248)
+	at scala.concurrent.impl.Promise$DefaultPromise.result(Promise.scala:261)
+	at scala.concurrent.Await$.$anonfun$result$1(package.scala:201)
+	at scala.concurrent.BlockContext$DefaultBlockContext$.blockOn(BlockContext.scala:62)
+	at scala.concurrent.Await$.result(package.scala:124)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionScalaFuture.$anonfun$withTimeout$1(MetalsEnrichments.scala:287)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:687)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:833)
+
+2024.08.12 20:55:54 INFO  compiling scala-practical-08_f4dd477a3a (1 scala source)
+2024.08.12 20:55:54 INFO  time: compiled Scala-Practical-08_f4dd477a3a in 0.31s
+2024.08.12 20:56:57 INFO  compiling scala-practical-08_f4dd477a3a (1 scala source)
+2024.08.12 20:56:57 INFO  time: compiled Scala-Practical-08_f4dd477a3a in 0.28s
+2024.08.12 20:57:09 INFO  compiling scala-practical-08_f4dd477a3a (1 scala source)
+2024.08.12 20:57:09 INFO  time: compiled Scala-Practical-08_f4dd477a3a in 0.23s
+2024.08.12 20:57:51 INFO  compiling scala-practical-08_f4dd477a3a (1 scala source)
+2024.08.12 20:57:51 INFO  time: compiled Scala-Practical-08_f4dd477a3a in 0.14s
+2024.08.12 20:57:56 INFO  compiling scala-practical-08_f4dd477a3a (1 scala source)
+2024.08.12 20:57:56 INFO  time: compiled Scala-Practical-08_f4dd477a3a in 0.29s
+2024.08.12 20:59:21 INFO  compiling scala-practical-08_f4dd477a3a (1 scala source)
+2024.08.12 20:59:21 INFO  time: compiled Scala-Practical-08_f4dd477a3a in 0.1s
+2024.08.12 20:59:21 INFO  compiling scala-practical-08_f4dd477a3a (1 scala source)
+2024.08.12 20:59:21 INFO  time: compiled Scala-Practical-08_f4dd477a3a in 95ms
+2024.08.12 20:59:21 INFO  compiling scala-practical-08_f4dd477a3a (1 scala source)
+2024.08.12 20:59:21 INFO  time: compiled Scala-Practical-08_f4dd477a3a in 96ms
+2024.08.12 20:59:26 INFO  compiling scala-practical-08_f4dd477a3a (1 scala source)
+2024.08.12 20:59:26 INFO  time: compiled Scala-Practical-08_f4dd477a3a in 0.22s
+2024.08.12 21:02:42 INFO  Running List(C:\Users\USER\AppData\Local\Coursier\data\bin\scala-cli.BAT, bsp, --workspace, C:\Users\USER\AppData\Local\Temp\metals-scala-cli9176254660257199282, --semantic-db-source-root, C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-04, C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-04\Q2.scala)
+2024.08.12 21:02:42 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-04\Q2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.12 21:02:42 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-04\.metals\bsp.trace.json or C:\Users\USER\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.08.12 21:02:44 INFO  Connected to Scala CLI server v1.3.2
+2024.08.12 21:02:44 INFO  compiling metals-scala-cli9176254660257199282_64c754a751-5e289d4391 (1 scala source)
+2024.08.12 21:02:44 INFO  time: compiled metals-scala-cli9176254660257199282_64c754a751-5e289d4391 in 0.41s
+2024.08.12 21:02:46 INFO  time: indexed workspace in 1.37s
+2024.08.12 21:02:46 INFO  Scala CLI started for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-04\Q2.scala
+2024.08.12 21:02:49 INFO  Shut down connection with build server.
+2024.08.12 21:02:52 INFO  Running List(C:\Users\USER\AppData\Local\Coursier\data\bin\scala-cli.BAT, bsp, --workspace, C:\Users\USER\AppData\Local\Temp\metals-scala-cli9176254660257199282, --semantic-db-source-root, C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-04, C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-04\Q1.scala)
+2024.08.12 21:02:52 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-04\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.12 21:02:52 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-04\.metals\bsp.trace.json or C:\Users\USER\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.08.12 21:02:55 INFO  Connected to Scala CLI server v1.3.2
+2024.08.12 21:02:55 INFO  compiling metals-scala-cli9176254660257199282_64c754a751-6338161739 (1 scala source)
+2024.08.12 21:02:55 INFO  time: compiled metals-scala-cli9176254660257199282_64c754a751-6338161739 in 0.43s
+2024.08.12 21:02:56 INFO  time: indexed workspace in 1.01s
+2024.08.12 21:02:56 INFO  Scala CLI started for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-04\Q1.scala
+2024.08.12 21:03:08 INFO  Shut down connection with build server.
+2024.08.12 21:03:14 INFO  Running List(C:\Users\USER\AppData\Local\Coursier\data\bin\scala-cli.BAT, bsp, --workspace, C:\Users\USER\AppData\Local\Temp\metals-scala-cli9176254660257199282, --semantic-db-source-root, C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-05, C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-05\Q3.scala)
+2024.08.12 21:03:14 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-05\Q3.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.12 21:03:14 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-05\.metals\bsp.trace.json or C:\Users\USER\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.08.12 21:03:17 INFO  Connected to Scala CLI server v1.3.2
+2024.08.12 21:03:17 INFO  compiling metals-scala-cli9176254660257199282_295ffb0393-110d45b9c0 (1 scala source)
+2024.08.12 21:03:17 INFO  time: compiled metals-scala-cli9176254660257199282_295ffb0393-110d45b9c0 in 0.35s
+2024.08.12 21:03:18 INFO  time: indexed workspace in 1.18s
+2024.08.12 21:03:18 INFO  Scala CLI started for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-05\Q3.scala
+2024.08.12 21:03:31 INFO  Shut down connection with build server.
+2024.08.12 21:05:22 INFO  Running List(C:\Users\USER\AppData\Local\Coursier\data\bin\scala-cli.BAT, bsp, --workspace, C:\Users\USER\AppData\Local\Temp\metals-scala-cli9176254660257199282, --semantic-db-source-root, C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-05, C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-05\Q3.scala)
+2024.08.12 21:05:22 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-05\.metals\bsp.trace.json or C:\Users\USER\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.08.12 21:05:25 INFO  Connected to Scala CLI server v1.3.2
+2024.08.12 21:05:25 INFO  time: indexed workspace in 0.77s
+2024.08.12 21:05:25 INFO  Scala CLI started for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-05\Q3.scala
+2024.08.12 21:05:40 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-08\Q2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.12 21:05:40 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-08\Q2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.12 21:05:40 WARN  no build target for: C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-08\Q2.scala
+2024.08.12 21:05:40 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-08\Q2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.12 21:05:40 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-08\Q2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.12 21:05:41 INFO  running doctor check
+2024.08.12 21:05:41 INFO  java targets: Scala-Practical-08_f4dd477a3a, Scala-Practical-08_f4dd477a3a-test
+2024.08.12 21:05:41 INFO  compiling scala-practical-08_f4dd477a3a (1 scala source)
+2024.08.12 21:05:41 INFO  time: compiled Scala-Practical-08_f4dd477a3a in 75ms
+2024.08.12 21:05:41 INFO  compiling scala-practical-08_f4dd477a3a (1 scala source)
+2024.08.12 21:05:41 INFO  time: compiled Scala-Practical-08_f4dd477a3a in 65ms
+2024.08.12 21:05:41 INFO  time: indexed workspace in 0.87s
+2024.08.12 21:05:42 INFO  compiling scala-practical-08_f4dd477a3a (1 scala source)
+2024.08.12 21:05:42 INFO  time: compiled Scala-Practical-08_f4dd477a3a in 61ms
+2024.08.12 21:11:46 INFO  Scala main classes not supported by server
+java.util.concurrent.TimeoutException: Future timed out after [540000 milliseconds]
+	at scala.concurrent.impl.Promise$DefaultPromise.tryAwait0(Promise.scala:248)
+	at scala.concurrent.impl.Promise$DefaultPromise.result(Promise.scala:261)
+	at scala.concurrent.Await$.$anonfun$result$1(package.scala:201)
+	at scala.concurrent.BlockContext$DefaultBlockContext$.blockOn(BlockContext.scala:62)
+	at scala.concurrent.Await$.result(package.scala:124)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionScalaFuture.$anonfun$withTimeout$1(MetalsEnrichments.scala:287)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:687)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:833)
+
+2024.08.12 21:11:46 INFO  Scala test classes not supported by server
+java.util.concurrent.TimeoutException: Future timed out after [540000 milliseconds]
+	at scala.concurrent.impl.Promise$DefaultPromise.tryAwait0(Promise.scala:248)
+	at scala.concurrent.impl.Promise$DefaultPromise.result(Promise.scala:261)
+	at scala.concurrent.Await$.$anonfun$result$1(package.scala:201)
+	at scala.concurrent.BlockContext$DefaultBlockContext$.blockOn(BlockContext.scala:62)
+	at scala.concurrent.Await$.result(package.scala:124)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionScalaFuture.$anonfun$withTimeout$1(MetalsEnrichments.scala:287)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:687)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:833)
+
+2024.08.12 21:11:46 INFO  Scala main classes not supported by server
+java.util.concurrent.TimeoutException: Future timed out after [540000 milliseconds]
+	at scala.concurrent.impl.Promise$DefaultPromise.tryAwait0(Promise.scala:248)
+	at scala.concurrent.impl.Promise$DefaultPromise.result(Promise.scala:261)
+	at scala.concurrent.Await$.$anonfun$result$1(package.scala:201)
+	at scala.concurrent.BlockContext$DefaultBlockContext$.blockOn(BlockContext.scala:62)
+	at scala.concurrent.Await$.result(package.scala:124)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionScalaFuture.$anonfun$withTimeout$1(MetalsEnrichments.scala:287)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:687)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:833)
+
+2024.08.12 21:11:46 INFO  Scala test classes not supported by server
+java.util.concurrent.TimeoutException: Future timed out after [540000 milliseconds]
+	at scala.concurrent.impl.Promise$DefaultPromise.tryAwait0(Promise.scala:248)
+	at scala.concurrent.impl.Promise$DefaultPromise.result(Promise.scala:261)
+	at scala.concurrent.Await$.$anonfun$result$1(package.scala:201)
+	at scala.concurrent.BlockContext$DefaultBlockContext$.blockOn(BlockContext.scala:62)
+	at scala.concurrent.Await$.result(package.scala:124)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionScalaFuture.$anonfun$withTimeout$1(MetalsEnrichments.scala:287)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:687)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:833)
+
+2024.08.12 21:12:05 INFO  Running List(C:\Users\USER\AppData\Local\Coursier\data\bin\scala-cli.BAT, bsp, --workspace, C:\Users\USER\AppData\Local\Temp\metals-scala-cli9176254660257199282, --semantic-db-source-root, C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Tutorial-07, C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Tutorial-07\Q3.scala)
+2024.08.12 21:12:05 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Tutorial-07\.metals\bsp.trace.json or C:\Users\USER\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.08.12 21:12:07 INFO  Connected to Scala CLI server v1.3.2
+2024.08.12 21:12:08 INFO  time: indexed workspace in 1.07s
+2024.08.12 21:12:08 INFO  Scala CLI started for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Tutorial-07\Q3.scala
+2024.08.12 21:13:05 INFO  Shut down connection with build server.
+2024.08.12 21:13:05 INFO  Scala CLI: Aug 12, 2024 9:13:05 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleNotification
+2024.08.12 21:14:26 INFO  compiling scala-practical-08_f4dd477a3a (3 scala sources)
+2024.08.12 21:14:26 INFO  running doctor check
+2024.08.12 21:14:26 INFO  java targets: Scala-Practical-08_f4dd477a3a, Scala-Practical-08_f4dd477a3a-test
+2024.08.12 21:14:26 INFO  compiling scala-practical-08_f4dd477a3a (3 scala sources)
+2024.08.12 21:14:26 INFO  time: compiled Scala-Practical-08_f4dd477a3a in 0.27s
+2024.08.12 21:14:28 INFO  time: indexed workspace in 1.58s
+2024.08.12 21:14:28 INFO  compiling scala-practical-08_f4dd477a3a (3 scala sources)
+2024.08.12 21:14:28 INFO  time: compiled Scala-Practical-08_f4dd477a3a in 0.17s
+2024.08.12 21:14:59 INFO  compiling scala-practical-08_f4dd477a3a (3 scala sources)
+2024.08.12 21:14:59 INFO  time: compiled Scala-Practical-08_f4dd477a3a in 0.42s
+2024.08.12 21:15:12 INFO  Shut down connection with build server.
+2024.08.12 21:15:29 INFO  compiling scala-practical-08_f4dd477a3a (1 scala source)
+2024.08.12 21:15:29 INFO  time: compiled Scala-Practical-08_f4dd477a3a in 0.1s
+2024.08.12 21:15:34 INFO  compiling scala-practical-08_f4dd477a3a (1 scala source)
+2024.08.12 21:15:34 INFO  time: compiled Scala-Practical-08_f4dd477a3a in 0.24s
+2024.08.12 21:16:26 INFO  compiling scala-practical-08_f4dd477a3a (1 scala source)
+2024.08.12 21:16:26 INFO  time: compiled Scala-Practical-08_f4dd477a3a in 0.23s
+2024.08.12 21:16:28 INFO  compiling scala-practical-08_f4dd477a3a (1 scala source)
+2024.08.12 21:16:28 INFO  time: compiled Scala-Practical-08_f4dd477a3a in 0.19s
+2024.08.12 21:16:28 INFO  compiling scala-practical-08_f4dd477a3a (1 scala source)
+2024.08.12 21:16:28 INFO  time: compiled Scala-Practical-08_f4dd477a3a in 0.25s
+2024.08.12 21:16:28 INFO  compiling scala-practical-08_f4dd477a3a (1 scala source)
+2024.08.12 21:16:28 INFO  time: compiled Scala-Practical-08_f4dd477a3a in 0.23s
+2024.08.12 21:19:44 INFO  compiling scala-practical-08_f4dd477a3a (1 scala source)
+2024.08.12 21:19:44 INFO  time: compiled Scala-Practical-08_f4dd477a3a in 0.26s
+2024.08.12 21:19:46 INFO  tracing is disabled for protocol dap-server, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-08\.metals\dap-server.trace.json or C:\Users\USER\AppData\Local\scalameta\metals\cache\dap-server.trace.json
+2024.08.12 21:19:46 INFO  tracing is disabled for protocol dap-client, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-08\.metals\dap-client.trace.json or C:\Users\USER\AppData\Local\scalameta\metals\cache\dap-client.trace.json
+2024.08.12 21:19:46 INFO  Starting debug proxy for [intMaching]
+2024.08.12 21:19:47 WARN  Cannot fetch expression compiler of Scala 3.4.2:  Error downloading ch.epfl.scala:scala-expression-compiler_3.4.2:4.1.1
+  not found: C:\Users\USER\.ivy2\local\ch.epfl.scala\scala-expression-compiler_3.4.2\4.1.1\ivys\ivy.xml
+  download error: Caught java.net.UnknownHostException (repo1.maven.org) while downloading https://repo1.maven.org/maven2/ch/epfl/scala/scala-expression-compiler_3.4.2/4.1.1/scala-expression-compiler_3.4.2-4.1.1.pom
+2024.08.12 21:19:47 WARN  Cannot fetch expression compiler of Scala 2.13.12:  Error downloading ch.epfl.scala:scala-expression-compiler_2.13.12:4.1.1
+  not found: C:\Users\USER\.ivy2\local\ch.epfl.scala\scala-expression-compiler_2.13.12\4.1.1\ivys\ivy.xml
+  download error: Caught java.net.UnknownHostException (repo1.maven.org) while downloading https://repo1.maven.org/maven2/ch/epfl/scala/scala-expression-compiler_2.13.12/4.1.1/scala-expression-compiler_2.13.12-4.1.1.pom
+2024.08.12 21:19:47 INFO  Loaded expression compiler in 462 milliseconds
+2024.08.12 21:19:47 WARN  Cannot fetch decoder of Scala 3.4.2:  Error downloading ch.epfl.scala:scala-debug-decoder_3:4.1.1
+  not found: C:\Users\USER\.ivy2\local\ch.epfl.scala\scala-debug-decoder_3\4.1.1\ivys\ivy.xml
+  download error: Caught java.net.UnknownHostException (repo1.maven.org) while downloading https://repo1.maven.org/maven2/ch/epfl/scala/scala-debug-decoder_3/4.1.1/scala-debug-decoder_3-4.1.1.pom
+2024.08.12 21:19:47 INFO  Loaded step filter in 16 milliseconds
+2024.08.12 21:19:50 INFO  Loaded all sources and classes in 2 seconds
+2024.08.12 21:19:50 INFO  Initialized Scala 3 decoder in 7 milliseconds
+2024.08.12 21:19:50 INFO  Trying to attach to remote debuggee VM DJKStudios:53274 .
+2024.08.12 21:19:50 INFO  Attaching to debuggee VM succeeded.
+2024.08.12 21:19:58 INFO  Closing debug server tcp://0.0.0.0:53271
+2024.08.12 21:19:58 INFO  Canceling debug proxy for [intMaching]
+2024.08.12 21:20:19 INFO  tracing is disabled for protocol dap-server, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-08\.metals\dap-server.trace.json or C:\Users\USER\AppData\Local\scalameta\metals\cache\dap-server.trace.json
+2024.08.12 21:20:19 INFO  tracing is disabled for protocol dap-client, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-08\.metals\dap-client.trace.json or C:\Users\USER\AppData\Local\scalameta\metals\cache\dap-client.trace.json
+2024.08.12 21:20:19 INFO  Starting debug proxy for [intMaching]
+2024.08.12 21:20:19 WARN  Cannot fetch expression compiler of Scala 3.4.2:  Error downloading ch.epfl.scala:scala-expression-compiler_3.4.2:4.1.1
+  not found: C:\Users\USER\.ivy2\local\ch.epfl.scala\scala-expression-compiler_3.4.2\4.1.1\ivys\ivy.xml
+  download error: Caught java.net.UnknownHostException (repo1.maven.org) while downloading https://repo1.maven.org/maven2/ch/epfl/scala/scala-expression-compiler_3.4.2/4.1.1/scala-expression-compiler_3.4.2-4.1.1.pom
+2024.08.12 21:20:19 WARN  Cannot fetch expression compiler of Scala 2.13.12:  Error downloading ch.epfl.scala:scala-expression-compiler_2.13.12:4.1.1
+  not found: C:\Users\USER\.ivy2\local\ch.epfl.scala\scala-expression-compiler_2.13.12\4.1.1\ivys\ivy.xml
+  download error: Caught java.net.UnknownHostException (repo1.maven.org) while downloading https://repo1.maven.org/maven2/ch/epfl/scala/scala-expression-compiler_2.13.12/4.1.1/scala-expression-compiler_2.13.12-4.1.1.pom
+2024.08.12 21:20:19 INFO  Loaded expression compiler in 38 milliseconds
+2024.08.12 21:20:19 WARN  Cannot fetch decoder of Scala 3.4.2:  Error downloading ch.epfl.scala:scala-debug-decoder_3:4.1.1
+  not found: C:\Users\USER\.ivy2\local\ch.epfl.scala\scala-debug-decoder_3\4.1.1\ivys\ivy.xml
+  download error: Caught java.net.UnknownHostException (repo1.maven.org) while downloading https://repo1.maven.org/maven2/ch/epfl/scala/scala-debug-decoder_3/4.1.1/scala-debug-decoder_3-4.1.1.pom
+2024.08.12 21:20:19 INFO  Loaded step filter in 9 milliseconds
+2024.08.12 21:20:20 INFO  Loaded all sources and classes in 1 second
+2024.08.12 21:20:20 INFO  Initialized Scala 3 decoder in 0 milliseconds
+2024.08.12 21:20:20 INFO  Trying to attach to remote debuggee VM DJKStudios:53286 .
+2024.08.12 21:20:20 INFO  Attaching to debuggee VM succeeded.
+2024.08.12 21:20:22 INFO  Canceling debug proxy for [intMaching]
+2024.08.12 21:20:22 INFO  Closing debug server tcp://0.0.0.0:53284
+2024.08.12 21:20:46 INFO  Scala main classes not supported by server
+java.util.concurrent.TimeoutException: Future timed out after [1080000 milliseconds]
+	at scala.concurrent.impl.Promise$DefaultPromise.tryAwait0(Promise.scala:248)
+	at scala.concurrent.impl.Promise$DefaultPromise.result(Promise.scala:261)
+	at scala.concurrent.Await$.$anonfun$result$1(package.scala:201)
+	at scala.concurrent.BlockContext$DefaultBlockContext$.blockOn(BlockContext.scala:62)
+	at scala.concurrent.Await$.result(package.scala:124)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionScalaFuture.$anonfun$withTimeout$1(MetalsEnrichments.scala:287)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:687)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:833)
+
+2024.08.12 21:20:46 INFO  Scala test classes not supported by server
+java.util.concurrent.TimeoutException: Future timed out after [1080000 milliseconds]
+	at scala.concurrent.impl.Promise$DefaultPromise.tryAwait0(Promise.scala:248)
+	at scala.concurrent.impl.Promise$DefaultPromise.result(Promise.scala:261)
+	at scala.concurrent.Await$.$anonfun$result$1(package.scala:201)
+	at scala.concurrent.BlockContext$DefaultBlockContext$.blockOn(BlockContext.scala:62)
+	at scala.concurrent.Await$.result(package.scala:124)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionScalaFuture.$anonfun$withTimeout$1(MetalsEnrichments.scala:287)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:687)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:833)
+
+2024.08.12 21:23:46 INFO  Scala test classes not supported by server
+java.util.concurrent.TimeoutException: Future timed out after [3 minutes]
+	at scala.concurrent.impl.Promise$DefaultPromise.tryAwait0(Promise.scala:248)
+	at scala.concurrent.impl.Promise$DefaultPromise.result(Promise.scala:261)
+	at scala.concurrent.Await$.$anonfun$result$1(package.scala:201)
+	at scala.concurrent.BlockContext$DefaultBlockContext$.blockOn(BlockContext.scala:62)
+	at scala.concurrent.Await$.result(package.scala:124)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionScalaFuture.$anonfun$withTimeout$1(MetalsEnrichments.scala:287)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:687)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:833)
+
+2024.08.12 21:23:46 INFO  Scala main classes not supported by server
+java.util.concurrent.TimeoutException: Future timed out after [3 minutes]
+	at scala.concurrent.impl.Promise$DefaultPromise.tryAwait0(Promise.scala:248)
+	at scala.concurrent.impl.Promise$DefaultPromise.result(Promise.scala:261)
+	at scala.concurrent.Await$.$anonfun$result$1(package.scala:201)
+	at scala.concurrent.BlockContext$DefaultBlockContext$.blockOn(BlockContext.scala:62)
+	at scala.concurrent.Await$.result(package.scala:124)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionScalaFuture.$anonfun$withTimeout$1(MetalsEnrichments.scala:287)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:687)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:833)
+
+2024.08.12 21:23:46 INFO  Scala main classes not supported by server
+java.util.concurrent.TimeoutException: Future timed out after [3 minutes]
+	at scala.concurrent.impl.Promise$DefaultPromise.tryAwait0(Promise.scala:248)
+	at scala.concurrent.impl.Promise$DefaultPromise.result(Promise.scala:261)
+	at scala.concurrent.Await$.$anonfun$result$1(package.scala:201)
+	at scala.concurrent.BlockContext$DefaultBlockContext$.blockOn(BlockContext.scala:62)
+	at scala.concurrent.Await$.result(package.scala:124)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionScalaFuture.$anonfun$withTimeout$1(MetalsEnrichments.scala:287)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:687)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:833)
+
+2024.08.12 21:23:46 INFO  Scala test classes not supported by server
+java.util.concurrent.TimeoutException: Future timed out after [3 minutes]
+	at scala.concurrent.impl.Promise$DefaultPromise.tryAwait0(Promise.scala:248)
+	at scala.concurrent.impl.Promise$DefaultPromise.result(Promise.scala:261)
+	at scala.concurrent.Await$.$anonfun$result$1(package.scala:201)
+	at scala.concurrent.BlockContext$DefaultBlockContext$.blockOn(BlockContext.scala:62)
+	at scala.concurrent.Await$.result(package.scala:124)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionScalaFuture.$anonfun$withTimeout$1(MetalsEnrichments.scala:287)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:687)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:833)
+
+2024.08.12 21:23:46 INFO  Scala test classes not supported by server
+java.util.concurrent.TimeoutException: Future timed out after [3 minutes]
+	at scala.concurrent.impl.Promise$DefaultPromise.tryAwait0(Promise.scala:248)
+	at scala.concurrent.impl.Promise$DefaultPromise.result(Promise.scala:261)
+	at scala.concurrent.Await$.$anonfun$result$1(package.scala:201)
+	at scala.concurrent.BlockContext$DefaultBlockContext$.blockOn(BlockContext.scala:62)
+	at scala.concurrent.Await$.result(package.scala:124)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionScalaFuture.$anonfun$withTimeout$1(MetalsEnrichments.scala:287)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:687)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:833)
+
+2024.08.12 21:23:46 INFO  Scala test classes not supported by server
+java.util.concurrent.TimeoutException: Future timed out after [3 minutes]
+	at scala.concurrent.impl.Promise$DefaultPromise.tryAwait0(Promise.scala:248)
+	at scala.concurrent.impl.Promise$DefaultPromise.result(Promise.scala:261)
+	at scala.concurrent.Await$.$anonfun$result$1(package.scala:201)
+	at scala.concurrent.BlockContext$DefaultBlockContext$.blockOn(BlockContext.scala:62)
+	at scala.concurrent.Await$.result(package.scala:124)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionScalaFuture.$anonfun$withTimeout$1(MetalsEnrichments.scala:287)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:687)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:833)
+
+2024.08.12 21:23:46 INFO  Scala main classes not supported by server
+java.util.concurrent.TimeoutException: Future timed out after [3 minutes]
+	at scala.concurrent.impl.Promise$DefaultPromise.tryAwait0(Promise.scala:248)
+	at scala.concurrent.impl.Promise$DefaultPromise.result(Promise.scala:261)
+	at scala.concurrent.Await$.$anonfun$result$1(package.scala:201)
+	at scala.concurrent.BlockContext$DefaultBlockContext$.blockOn(BlockContext.scala:62)
+	at scala.concurrent.Await$.result(package.scala:124)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionScalaFuture.$anonfun$withTimeout$1(MetalsEnrichments.scala:287)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:687)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:833)
+
+2024.08.12 21:23:46 INFO  Scala main classes not supported by server
+java.util.concurrent.TimeoutException: Future timed out after [3 minutes]
+	at scala.concurrent.impl.Promise$DefaultPromise.tryAwait0(Promise.scala:248)
+	at scala.concurrent.impl.Promise$DefaultPromise.result(Promise.scala:261)
+	at scala.concurrent.Await$.$anonfun$result$1(package.scala:201)
+	at scala.concurrent.BlockContext$DefaultBlockContext$.blockOn(BlockContext.scala:62)
+	at scala.concurrent.Await$.result(package.scala:124)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionScalaFuture.$anonfun$withTimeout$1(MetalsEnrichments.scala:287)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:687)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:833)
+
+2024.08.12 21:37:25 INFO  Shutting down server
+2024.08.12 21:37:25 INFO  shutting down Metals
+2024.08.12 21:37:25 INFO  Shut down connection with build server.
+2024.08.12 21:37:25 INFO  Exiting server
