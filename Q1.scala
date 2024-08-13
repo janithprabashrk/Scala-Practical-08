@@ -24,7 +24,7 @@ object CaesarCipher {
         val encrypted = funcSelector(text, shift, encrypt)
         val decrypted = funcSelector(encrypted, shift, decrypt)
 
-        println(" certain text : " + text)
+        println("Certain text : " + text)
         println("Encrypted text : " + encrypted)
         println("Decrypted text : " + decrypted)
     }
